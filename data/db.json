@@ -1,0 +1,10 @@
+{
+  "ids": {
+    "User": 10
+  },
+  "models": {
+    "User": {
+      "9": "{\"name\":\"61de962f\",\"email\":\"74664a366d@email.com\",\"password\":\"$2a$10$NhuaSfW4H7Ahsj4jt3Ee8OPfPTAla1UXApZSGyqwSKHjxtQuzmso.\",\"role\":\"USER\",\"createdAt\":\"2023-08-27T21:49:42.555Z\",\"testField\":\"a1308eb0-4523-11ee-85d3-2373d9f288e7\",\"id\":\"9\"}"
+    }
+  }
+}
